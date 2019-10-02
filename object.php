@@ -1,13 +1,13 @@
 <?php
 
-class Coba { 
+class Try { 
 
 
 }
 
-// membuat object instance dari class
-$a = new Coba();
-$b = new Coba(); 
+// create object instance from class
+$a = new Try();
+$b = new Try(); 
 
 
 ?>
