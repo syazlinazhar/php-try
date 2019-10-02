@@ -2,7 +2,6 @@
 
 class Try { 
 
-
 }
 
 // create object instance from class
